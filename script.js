@@ -2,7 +2,7 @@
 let button= document.getElementById("calculate");
 let weight_status=false;
 let height_status=false;
-
+ 
 button.addEventListener("click", () => {
       
     let wight= document.getElementById("weight").value;
